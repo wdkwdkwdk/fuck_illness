@@ -40,8 +40,8 @@ tags = jieba.analyse.extract_tags(content, topK=200, withWeight=True)
 ```
 这样一来就可以完全过滤掉自定义字典之外的词
 
-### 语聊库
-我发现[搜狗的词库](https://pinyin.sogou.com/dict/cate/index/132/download/9)真的是个很不错的地方，有太多医疗相关的语聊，不过要注意的是，下载下来不能直接使用，需要使用工具解码，这里推荐『深蓝词库转换』，使用非常方便
+### 语料库
+我发现[搜狗的词库](https://pinyin.sogou.com/dict/cate/index/132/download/9)真的是个很不错的地方，有太多医疗相关的语料，不过要注意的是，下载下来不能直接使用，需要使用工具解码，这里推荐『深蓝词库转换』，使用非常方便
 ![深蓝词库](https://img.niucodata.com/slck.png)
 
 ### 几个要注意的地方
