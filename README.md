@@ -53,6 +53,4 @@ tags = jieba.analyse.extract_tags(content, topK=200, withWeight=True)
 * 各种中文编码问题
 
 ### 数据库数据
-
-https://c-t.work/s/712cb220992446 (密码:dkisgood)
-
+https://c-t.work/s/3443c377e7814c
